@@ -1,5 +1,5 @@
-<!-- Header
-        ============================================= -->
+        {{$hello}}
+        <!-- Header  ============================================= -->
         <header id="header" class="full-header">
 
             <div id="header-wrap">

@@ -1,5 +1,5 @@
-<!-- Footer
-        ============================================= -->
+        
+        <!-- Footer============================================= -->
         <footer id="footer" class="dark" style="background: url('/images/footer-bg.jpg') repeat; background-size: 100% 100%;">
 
             <div class="container">
@@ -96,7 +96,7 @@
                             <div class="row">
 
                                 <div class="col-md-6 clearfix bottommargin-sm">
-                    <img width="65px" src="/images/wechat.jpg">
+                                    <img width="65px" src="/images/wechat.jpg">
                                     <a style="margin-left: 5px;"><strong>微 信</strong></a>
                                 </div>
                                 
@@ -139,3 +139,4 @@
 
         </footer>
         <!-- #footer end -->
+        {{$hello}}
